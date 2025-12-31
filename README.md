@@ -1,7 +1,13 @@
 # 🛡️ Awesome Free & Affordable Cybersecurity + IT Training  
 A curated, community‑driven list of **free** and **low‑cost** (under $50) resources for learning **IT**, **cybersecurity**, **cloud**, **programming**, and **digital forensics**.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 ---
+
 
 ## 📚 Table of Contents
 - [Foundational IT Skills](#foundational-it-skills)
