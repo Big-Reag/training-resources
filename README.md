@@ -1,5 +1,5 @@
-# 🛡️ Awesome Free & Affordable Cybersecurity + IT Training  
-A curated, community‑driven list of **free** and **low‑cost** (under $50) resources for learning **IT**, **cybersecurity**, **cloud**, **programming**, and **digital forensics**.
+# 🛡️ Free & Affordable Cybersecurity + IT Training  
+A curated list of **free** and **low‑cost** (under $50) resources for learning **IT**, **cybersecurity**, **cloud**, **programming**, and **digital forensics**.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Big-Reag/Training-Resources?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
